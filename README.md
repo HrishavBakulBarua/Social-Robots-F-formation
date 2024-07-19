@@ -4,7 +4,6 @@
 <p align="center">
     <img width="800" src="assets/Social_robot_f-formation.gif" alt="Material Bread logo">
     <br>
-  #  <em>**This Graphics is retrieved from Google Search**</em>
 </p>
 
 ## About the project
