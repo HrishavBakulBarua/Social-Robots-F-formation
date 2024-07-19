@@ -6,3 +6,11 @@
     <br>
   #  <em>**This Graphics is retrieved from Google Search**</em>
 </p>
+
+## About the project
+
+This project is a collaboration between researchers from [(TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research), [Monash University, Melbourne, Australia](https://www.monash.edu/), [Yale University, USA](https://www.yale.edu/), [University of Naples Federico II, Italy](https://www.international.unina.it/), and [University of Gottingen, Germeny](https://www.uni-goettingen.de/en/1.html) 
+
+Project Members - 
+
+[Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(Monash University and TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research),                   
