@@ -123,6 +123,7 @@ of events/data in a typical group/interaction detection (f-formation) framework.
     <img src="assets/Application.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+For more details please check out the full paper available at: [Social-Robots-F-formation](https://arxiv.org/abs/2108.06181)!!
 
 ## LIMITATIONS, CHALLENGES AND FUTURE DIRECTIONS:
 
