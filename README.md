@@ -40,3 +40,15 @@ F-formation (facing formation) is defined as the set of patterns that are formed
 <div>
     <img src="assets/Compare.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
+
+## Comprehensive list of f-formations which are/can be used for group and interaction detection tasks in vision and robotics
+
+<div>
+    <img src="assets/List_formations.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+##  Comprehensive list of f-formations and their corresponding changed formations after a person/robot joins it. Also, the relevant possible trajectories a robot/person should take in each of the case
+
+<div>
+    <img src="assets/List_joining.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
