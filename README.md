@@ -17,6 +17,8 @@ Project Members -
 [Pradip Pramanick](https://www.linkedin.com/in/pradip-pramanick-804297115/?originalSubdomain=in) [University of Naples Federico II, Naples, Italy](https://www.international.unina.it/), and                                                                                                      
 [Chayan Sarkar](https://www.linkedin.com/in/csarkar87/?originalSubdomain=in) [Yale University, USA](https://www.yale.edu/)      
 
+This work is accepted in the prestigious [ACM Transactions on Human-Robot Interaction](https://dl.acm.org/journal/thri) with **Impact Factor 5.2**!!
+
 ### <ins>Funding details<ins>
 
 This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. 
