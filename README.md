@@ -88,6 +88,11 @@ of events/data in a typical group/interaction detection (f-formation) framework.
     <img src="assets/Framework.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+###  Taxonomy for cameras and sensors for scene capture. The leaf nodes give examples in each category
+
+<div>
+    <img src="assets/Sensors.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
 
 ##  Citation 
 
