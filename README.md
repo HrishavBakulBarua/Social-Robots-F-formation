@@ -6,6 +6,8 @@
     <br>
 </p>
 
+The arxiv version of the paper with supplementary: [Social-Robots-F-formation](https://arxiv.org/abs/2108.06181)!!
+
 ## About the project
 
 This project is a collaboration between researchers from [TCS Research, Kolkata, India](https://www.tcs.com/what-we-do/research), [Monash University, Melbourne, Australia](https://www.monash.edu/), [Yale University, USA](https://www.yale.edu/), [University of Naples Federico II, Naples, Italy](https://www.international.unina.it/), and [University of Gottingen, Germany](https://www.uni-goettingen.de/en/1.html) 
