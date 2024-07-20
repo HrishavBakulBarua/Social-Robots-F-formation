@@ -6,6 +6,8 @@
     <br>
 </p>
 
+This project page contains all first hand information and resources of our work. 
+
 The arxiv version of the paper with supplementary: [Social-Robots-F-formation](https://arxiv.org/abs/2108.06181)!!
 
 ## About the project
@@ -73,4 +75,59 @@ requirement for that particular formation.
     <img src="assets/Joining_tab.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+##  Citation 
 
+If you find our work (i.e. the theory/concept, review, or framework) useful for your research or development activities, please consider citing our works as follows:
+
+### Papers:
+~~~
+@article{barua2021detecting,
+  title={Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions},
+  author={Barua, Hrishav Bakul and Mg, Theint Haythi and Pramanick, Pradip and Sarkar, Chayan},
+  journal={arXiv preprint arXiv:2108.06181},
+  year={2021}
+}
+~~~
+
+~~~
+@inproceedings{barua2020let,
+  title={Let me join you! real-time f-formation recognition by a socially aware robot},
+  author={Barua, Hrishav Bakul and Pramanick, Pradip and Sarkar, Chayan and Mg, Theint Haythi},
+  booktitle={2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+  pages={371--377},
+  year={2020},
+  organization={IEEE}
+}
+~~~
+
+~~~
+@article{barua2020can,
+  title={I can attend a meeting too! towards a human-like telepresence avatar robot to attend meeting on your behalf},
+  author={Barua, Hrishav Bakul and Sarkar, Chayan and Kumar, Achanna Anil and Pal, Arpan and others},
+  journal={arXiv preprint arXiv:2006.15647},
+  year={2020}
+}
+~~~
+
+### Patents
+~~~
+@misc{barua2021system,
+  title={System and method for enabling robot to perceive and detect socially interacting groups},
+  author={Barua, Hrishav Bakul and Pramanick, Pradip and Sarkar, Chayan},
+  year={2021},
+  month=dec # "~30",
+  publisher={Google Patents},
+  note={US Patent App. 17/138,224}
+}
+~~~
+
+~~~
+@misc{sarkar2021attention,
+  title={Attention shifting of a robot in a group conversation using audio-visual perception based speaker localization},
+  author={Sarkar, Chayan and Barua, Hrishav Bakul and Pal, Arpan and Purushothaman, Balamuralidhar and Kumar, Achanna Anil},
+  year={2021},
+  month=sep # "~21",
+  publisher={Google Patents},
+  note={US Patent 11,127,401}
+}
+~~~
