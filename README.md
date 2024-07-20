@@ -94,6 +94,36 @@ of events/data in a typical group/interaction detection (f-formation) framework.
     <img src="assets/Sensors.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+### Taxonomy for methods and approaches used for group and interaction detection
+
+<div>
+    <img src="assets/Methods.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+### Taxonomy for datasets surveyed for groups/interactions and formation detection
+
+<div>
+    <img src="assets/Dataset.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+### Taxonomy for Detection capability and scale for groups/interactions and formations
+
+<div>
+    <img src="assets/Detection.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+### Taxonomy for evaluation methodology for group/interaction and f-formation detection
+<div>
+    <img src="assets/Evaluation.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+### Taxonomy for application areas for group/interaction and f-formation detection
+
+<div>
+    <img src="assets/Application.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+
 ##  Citation 
 
 If you find our work (i.e. the theory/concept, review, or framework) useful for your research or development activities, please consider citing our works as follows:
