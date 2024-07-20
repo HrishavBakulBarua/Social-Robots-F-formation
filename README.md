@@ -46,7 +46,7 @@ F-formation (facing formation) is defined as the set of patterns that are formed
 Human proxemics is the study of how space is used between humans or how it is set between humans and others during interactions or performing an activity.The below figure shows the various specified distance ranges for different designated interaction types on the basis of intimacy level between the participating people. The distance ranges specified in green colored boxes are relevant to group/interaction and f-formation detection perspective. The blue-colored boxes signify distance ranges that are not generally seen in any f-formation.
 
 <div>
-    <img src="assets/Human_proximics.png" alt="Image 2" width="700" style="float:left; margin-right: 100px;" />
+    <img src="assets/Human_proximics.png" alt="Image 2" width="900" style="float:left; margin-right: 100px;" />
 </div>
 
 
