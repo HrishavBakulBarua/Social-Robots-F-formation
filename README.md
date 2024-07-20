@@ -34,3 +34,9 @@ In particular, we discuss the existing methods/techniques and their relative mer
 </div>
 
 F-formation (facing formation) is defined as the set of patterns that are formed during social interactions of two or more people. A robot can join an existing group or go to a single person and form a new group. There are three social spaces related to f-formation, which are: O-space, P-space, and R-space. O-space is known as the joint transaction space which is the interaction space between participants. P-space is the space where active participants are standing. R-space is the area that surrounds the participants and is outside the interaction radius as shown in the above figure.
+
+## Uniqueness if this work
+
+<div>
+    <img src="assets/Compare.png" alt="Image 2" width="700" style="float:left; margin-right: 100px;" />
+</div>
