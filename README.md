@@ -35,6 +35,15 @@ In particular, we discuss the existing methods/techniques and their relative mer
 
 F-formation (facing formation) is defined as the set of patterns that are formed during social interactions of two or more people. A robot can join an existing group or go to a single person and form a new group. There are three social spaces related to f-formation, which are: O-space, P-space, and R-space. O-space is known as the joint transaction space which is the interaction space between participants. P-space is the space where active participants are standing. R-space is the area that surrounds the participants and is outside the interaction radius as shown in the above figure.
 
+### Human proxemics 
+
+Human proxemics is the study of how space is used between humans or how it is set between humans and others during interactions or performing an activity.The below figure shows the various specified distance ranges for different designated interaction types on the basis of intimacy level between the participating people. The distance ranges specified in green colored boxes are relevant to group/interaction and f-formation detection perspective. The blue-colored boxes signify distance ranges that are not generally seen in any f-formation.
+
+<div>
+    <img src="assets/Human_Proximics.png" alt="Image 2" width="700" style="float:left; margin-right: 100px;" />
+</div>
+
+
 ## Uniqueness if this work
 
 <div>
