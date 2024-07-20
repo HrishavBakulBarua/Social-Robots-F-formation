@@ -103,7 +103,7 @@ of events/data in a typical group/interaction detection (f-formation) framework.
 ### Taxonomy for datasets surveyed for groups/interactions and formation detection
 
 <div>
-    <img src="assets/Dataset.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+    <img src="assets/Datasets.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
 ### Taxonomy for Detection capability and scale for groups/interactions and formations
