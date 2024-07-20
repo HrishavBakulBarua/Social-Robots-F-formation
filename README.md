@@ -12,7 +12,7 @@ The arXiv version of the paper with supplementary material: [Social-Robots-F-for
 
 ## About the project
 
-This project is a collaboration between researchers from:
+This project is a collaboration between researchers from:                                                                                                                                                                                                                                            
 [TCS Research, Kolkata, India](https://www.tcs.com/what-we-do/research),                                                                                                                                                                                                                             
 [Monash University, Melbourne, Australia](https://www.monash.edu/),                                                                                                                                                                                                                                  
 [Yale University, USA](https://www.yale.edu/),                                                                                                                                                                                                                                                       
