@@ -50,7 +50,7 @@ Human proxemics is the study of how space is used between humans or how it is se
 </div>
 
 
-## Uniqueness if this work
+## Uniqueness of this work
 
 <div>
     <img src="assets/Compare.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
