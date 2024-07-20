@@ -52,3 +52,12 @@ F-formation (facing formation) is defined as the set of patterns that are formed
 <div>
     <img src="assets/List_joining.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
+
+The table below lists the comprehensive list of formations before and after a robot/human has joined. The “*” signifies that the number is the minimum
+requirement for that particular formation.
+
+<div>
+    <img src="assets/Joining_tab.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
+</div>
+
+
