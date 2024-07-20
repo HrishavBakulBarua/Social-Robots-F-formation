@@ -38,5 +38,5 @@ F-formation (facing formation) is defined as the set of patterns that are formed
 ## Uniqueness if this work
 
 <div>
-    <img src="assets/Compare.png" alt="Image 2" width="700" style="float:left; margin-right: 100px;" />
+    <img src="assets/Compare.png" alt="Image 2" width="800" style="float:left; margin-right: 100px;" />
 </div>
