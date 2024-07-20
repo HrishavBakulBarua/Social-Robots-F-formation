@@ -25,7 +25,7 @@ This work is accepted in the prestigious [ACM Transactions on Human-Robot Intera
 
 ### <ins>Funding details<ins>
 
-
+This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University.
 
 ## Overview
 
