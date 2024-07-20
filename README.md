@@ -8,7 +8,7 @@
 
 This project page contains all first hand information and resources of our work. 
 
-The arxiv version of the paper with supplementary material: [Social-Robots-F-formation](https://arxiv.org/abs/2108.06181)!!
+The arXiv version of the paper with supplementary material: [Social-Robots-F-formation](https://arxiv.org/abs/2108.06181)!!
 
 ## About the project
 
