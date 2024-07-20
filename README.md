@@ -109,7 +109,7 @@ If you find our work (i.e. the theory/concept, review, or framework) useful for 
 }
 ~~~
 
-### Patents
+### Patents:
 ~~~
 @misc{barua2021system,
   title={System and method for enabling robot to perceive and detect socially interacting groups},
