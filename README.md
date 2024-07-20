@@ -126,10 +126,12 @@ of events/data in a typical group/interaction detection (f-formation) framework.
 
 ## LIMITATIONS, CHALLENGES AND FUTURE DIRECTIONS:
 
+Limitations and challenge in the various concern areas of our survey framework.
 <div>
     <img src="assets/Limit.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+Future research directions/opportunities in the various concern areas of our survey framework.
 <div>
     <img src="assets/Future.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
