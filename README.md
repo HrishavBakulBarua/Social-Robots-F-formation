@@ -106,13 +106,12 @@ of events/data in a typical group/interaction detection (f-formation) framework.
     <img src="assets/Datasets.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
+### Comprehensive list of datasets (training/testing) and their types, used in group/interaction and formation detection methods
+surveyed in the literature. The color coding is done for the readers to perceive the data easily
+
 <div>
     <img src="assets/datasets_1.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
-</div>
-<div>
     <img src="assets/datasets_2.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
-</div>
-<div>
     <img src="assets/datasets_3.png" alt="Image 2" width="1000" style="float:left; margin-right: 100px;" />
 </div>
 
