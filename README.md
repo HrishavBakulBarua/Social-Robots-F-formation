@@ -139,7 +139,7 @@ Future research directions/opportunities in the various concern areas of our sur
 
 ##  Citation 
 
-If you find our work (i.e. the theory/concept, review, or framework) useful for your research or development activities, please consider citing our works as follows:
+If you find our work (i.e., the taxonomies, methods, theory/concept, reviews, datasets, applications, challenges, future directions or framework) useful for your research or development activities, please consider citing our works as follows:
 
 ### Papers:
 ~~~
