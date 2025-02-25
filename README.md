@@ -155,11 +155,15 @@ If you find our work (i.e., the taxonomies, methods, theory/concept, reviews, da
 
 ### Papers:
 ~~~
-@article{barua2021detecting,
-  title={Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions},
+@article{barua2024enabling,
+  title={Enabling Social Robots to Perceive and Join Socially Interacting Groups using F-formation: A Comprehensive Overview},
   author={Barua, Hrishav Bakul and Mg, Theint Haythi and Pramanick, Pradip and Sarkar, Chayan},
-  journal={arXiv preprint arXiv:2108.06181},
-  year={2021}
+  journal={ACM Transactions on Human-Robot Interaction},
+  volume={13},
+  number={4},
+  pages={1--48},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ~~~
 
