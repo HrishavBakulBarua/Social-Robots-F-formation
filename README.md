@@ -10,6 +10,9 @@ This project page contains all first hand information and resources of our work.
 
 The official version of the paper with supplementary material: [Social-Robots-F-formation](https://dl.acm.org/doi/10.1145/3682072)!!
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+
+
 ## About the project
 
 This project is a collaboration between researchers from:                                                                                                                                                                                                                                            
